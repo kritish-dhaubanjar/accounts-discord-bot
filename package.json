@@ -1,0 +1,11 @@
+{
+  "name": "strongb0x-discord-bot",
+  "version": "1.0.0",
+  "description": "StrongB0x Accounting Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kritish Dhaubanjar",
+  "license": "ISC"
+}
