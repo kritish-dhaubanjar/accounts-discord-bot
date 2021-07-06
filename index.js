@@ -4,9 +4,7 @@ const Discord = require("discord.js");
 
 const client = new Discord.Client();
 
-const currencyFormatter = Intl.NumberFormat("en-IN", {
-  maximumSignificantDigits: 3,
-});
+const currencyFormatter = Intl.NumberFormat("en-IN");
 
 client.on("ready", () => {
   console.log("strongB0x-discord-bot ready!");
